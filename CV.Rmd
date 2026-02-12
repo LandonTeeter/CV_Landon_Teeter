@@ -1,0 +1,96 @@
+---
+  title: "Curriculum Vitae"
+author: "Landon Blake Teeter"
+output:
+  pdf_document:
+  toc: false
+number_sections: false
+html_document:
+  toc: false
+number_sections: false
+geometry: margin=1in
+fontsize: 11pt
+---
+  
+  # **Landon Blake Teeter**
+  
+  **Phone:** (717) 327-1581  
+**Email:** landon.teeter@gmail.com | lzt5326@psu.edu  
+
+---
+  
+  ## **Objective**
+  Motivated and detail-oriented graduate student seeking a research position where I can apply molecular biology, microbiology, and laboratory skills to support high-quality scientific work.
+
+---
+  
+  ## **Research Experience**
+  
+  ### **Regulation and Expression of Type VI Secretion System Effectors in *Vibrio fischeri***
+  *Pennsylvania State University — Graduate Research*  
+  - Investigating regulatory pathways controlling T6SS effector expression.  
+- Designing molecular assays to quantify effector gene expression and secretion.  
+- Applying molecular cloning, qPCR, and bacterial culture techniques.
+
+### **ZYMV RT-qPCR Assay Development**
+*Millersville University — Undergraduate Research*  
+  - Mechanically infected zucchini plants with Zucchini Yellow Mosaic Virus (ZYMV).  
+- Extracted high-quality RNA from infected plant tissue.  
+- Synthesized cDNA and amplified viral sequences using primers containing EcoRI and XbaI restriction sites.  
+- Ligated viral cDNA into a plasmid vector for downstream quantification.  
+- Used qPCR to quantify viral genome copy number in plant samples.
+
+---
+  
+  ## **Professional Experience**
+  
+  ### **Eurofins Food Testing, Leola, PA — Laboratory Technician**  
+  *May 2024 – August 2025*  
+  - Performed aseptic weighing and preparation of food samples for microbiological testing.  
+- Prepared dilutions using appropriate broths and media.  
+- Incubated samples under required environmental conditions.  
+- Pipetted and plated samples onto Petri dishes and Petri films with precision.
+
+### **Rite Aid Pharmacy, Quarryville, PA — Pharmacy Technician**  
+*April 2022 – May 2024*  
+  - Provided customer service and assisted with prescription transactions.  
+- Entered, verified, and managed electronic and paper prescriptions.  
+- Received and organized daily medication inventory.  
+- Accurately filled prescriptions according to dosage and quantity requirements.
+
+### **Dolce Vita, Quarryville, PA — Deep Fryer, Sub/Salad Maker, Dishwasher**  
+*July 2018 – April 2022*  
+  - Maintained efficiency in a fast-paced kitchen environment.  
+- Prepared menu items including salads, subs, and fried foods.  
+- Washed, dried, and organized kitchen utensils and equipment.
+
+---
+  
+  ## **Education**
+  
+  ### **Pennsylvania State University, State College, PA**  
+  *Graduate Student — Biological Sciences*  
+  August 2025 – Present
+
+### **Millersville University, Millersville, PA**  
+*B.S. Biology (Molecular Biology Concentration), Minor in Biochemistry*  
+  August 2021 – December 2024  
+- Magna Cum Laude  
+- University Honors  
+- Dean’s List (7 semesters)
+
+### **Lampeter-Strasburg High School, Lancaster, PA**  
+High School Diploma  
+August 2017 – June 2021
+
+---
+  
+  ## **Awards & Achievements**
+  - University Honors, Millersville University  
+- Dean’s List (7 semesters)  
+- Magna Cum Laude  
+
+---
+  
+  ## **References**
+  Available upon request.
