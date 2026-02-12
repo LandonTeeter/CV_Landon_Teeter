@@ -6,6 +6,7 @@ Snuffie Lane 1955, 3500 AA Utrecht, The Netherlands
 
 Email: m.b.pluis@uu-meadow.nl | ORCID: 0000-0002-EARS-0001
 
+![miffy](https://i.pinimg.com/736x/0f/fc/a3/0ffca35e705daf1e3fba48da4db01c92.jpg)
 ---
 
 ## Education
